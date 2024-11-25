@@ -8,7 +8,5 @@ my repo for all my code that i did in the CS50 lessons (CS50P, CS50AI). pls read
 > #### DO NOT COPY AND PASTE THIS CODE AND SUBMIT IT. THIS WOULD GO AGAINST THE ACADEMY'S POLICY ON ACADEMIC HONESTY. ONLY READ THEM IF YOU WANT TO CONFIRM YOUR CODE, OR YOU ARE EXTREMELY STUCK ON THE PROBLEM AND NEED A REFERENCE
 
 <br> this repo has 2 folders
-- CS50AI
-- CS50P
-<br>CS50AI does not have anythings (yet)
-<br>CS50P contains the solutions for all the problems in all the problem sets.
+- CS50AI (does not have anything yet)
+- CS50P (contains solutions for all the problems in all the problem sets)
