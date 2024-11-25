@@ -10,5 +10,5 @@ my repo for all my code that i did in the CS50 lessons (CS50P, CS50AI). pls read
 <br> this repo has 2 folders
 - CS50AI
 - CS50P
-CS50AI does not have anythings (yet)
-CS50P contains the solutions for all the problems in all the problem sets. do not again the warning isued above
+<br>CS50AI does not have anythings (yet)
+<br>CS50P contains the solutions for all the problems in all the problem sets.
