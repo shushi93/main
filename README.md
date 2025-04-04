@@ -1,7 +1,7 @@
 # main
 this is where all my files/projects will be located from all my public repositories (and selected, usually all) private repositories
 
-### CS50: 
+<!--### CS50: 
 my folder for all my code that i did in the CS50 lessons (CS50P, CS50AI)
 <br>
 > [!WARNING]
