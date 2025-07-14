@@ -1,7 +1,7 @@
 # main
 this is where all my files/projects will be located from all my public repositories (and selected, usually all) private repositories
 
-<!--### CS50: 
+### CS50: 
 my folder for all my code that i did in the CS50 lessons (CS50P, CS50AI)
 <br>
 > [!WARNING]
@@ -10,3 +10,7 @@ my folder for all my code that i did in the CS50 lessons (CS50P, CS50AI)
 <br> this folder has 2 sub-folders
 - CS50AI (does not have anything yet)
 - CS50P (contains solutions for all the problems in all the problem sets)
+
+
+### Skins
+my rainmeter skins backup
