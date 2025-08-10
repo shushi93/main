@@ -5,7 +5,7 @@ this is where all my files/projects will be located from all my public repositor
 my folder for all my code that i did in the CS50P, 
 
 > [!NOTE]
-> Currently, this is for the SUmmer of Making event, will likely be removed after
+> Currently, this is for the Summer of Making event, will likely be removed after
 <br>
 
 > [!WARNING]
