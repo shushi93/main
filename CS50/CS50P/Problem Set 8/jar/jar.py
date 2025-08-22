@@ -49,12 +49,12 @@ def main():
     while True:
         act = input("Action: ").strip()
         if act == "help":
-            print("deposit [n] (adds n cookies to cookie jar) \n \
-                  withdraw [n] (takes away n cookies from cookie jar) \n \
-                  capacity (returns cookie jar's capacity) \n \
-                  size (returns how many cookies in the cookie jar right now) \n \
-                  cookie (run it by itself to see what it does) \n \
-                  exit (exits the program)")
+            print(" deposit [n] (adds n cookies to cookie jar)\n\
+ withdraw [n] (takes away n cookies from cookie jar)\n\
+ capacity (returns cookie jar's capacity)\n\
+ size (returns how many cookies in the cookie jar right now)\n\
+ cookie (run it by itself to see what it does)\n\
+ exit (exits the program)")
         elif act.startswith("deposit"):
             #try:
             n = re.search(r"^deposit (?P<num>\d+)$", act)
